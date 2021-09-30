@@ -5,7 +5,6 @@
 **Project member:** Boyuan Cui (bc594)/Sicheng Zhao (sz629)
 
 
-
 ##### Question
 
 How to find a well worth airbnb room?
