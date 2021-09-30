@@ -4,12 +4,11 @@
 
 **Project member:** Boyuan Cui (bc594)/Sicheng Zhao (sz629)
 
-
-##### Question
+### Question
 
 How to find a well worth airbnb room NewYork?
 
-##### Data Set
+### Data Set
 
 http://insideairbnb.com/get-the-data.html
 
@@ -33,7 +32,7 @@ There are three main date sets:
 
    Summary information and metrics for **listings** in New York City (good for visualisations).
 
-##### Our Goal
+### Our Goal
 
 Our goal is to help people to find a well worth airbnb room in New York by predicting the airbnb price and figuring out what is the top factors that influence the different price.
 
@@ -41,7 +40,7 @@ By using the data set above, we are able to find the relations between different
 
 At last we will draw a conclusion and give useful advice based on our work.
 
-##### Project Value
+### Project Value
 
 Whether the room I live in is worth the price I paid is a question that many people on business trips or travel are very concerned. Our model can predict the price of this airbnb room based on some characteristics, so it can help users to choose the most suitable room for them, thereby improving the happiness of travelers. Furthermore, if our data set can be richer, the computing power is more powerful, and the algorithm used is more complex, then our model will eventually be more accurate. Such a model can not only better help travelers choose airbnb rooms in New York, but also can applied to the entire hotel industry accross the world to help hotels improve their pricing system. 
 
