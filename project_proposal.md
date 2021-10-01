@@ -32,11 +32,15 @@ There are three main date sets:
 
    Summary information and metrics for **listings** in New York City (good for visualisations).
 
+### Prblems
+
+Currently there is no convenient way for a new Airbnb host to decide the price of his or her listing. New hosts must often rely on the price of neighbouring listings when deciding on the price of their own listing.
+
 ### Our Goal
 
 Our goal is to help people to find a well worth airbnb room in New York by predicting the airbnb price and figuring out what is the top factors that influence the different price.
 
-By using the data set above, we are able to find the relations between different features and price, also we are able to predict the trend of the price in the scale of month and year.
+By using the data set above, we are able to find the relations between different features and price, also we are able to predict the trend of the price based on different features. A new host is able to use our model to find a suggested price for the airbnb room he want to choose.
 
 At last we will draw a conclusion and give useful advice based on our work.
 
