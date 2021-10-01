@@ -44,9 +44,13 @@ By using the data set above, we are able to find the relations between different
 
 At last we will draw a conclusion and give useful advice based on our work.
 
+### Possible knowledge may be used
+
+*Data cleaning, Feature engineering, Linear/Nonlinear models and etc.*
+
 ### Project Value
 
-Whether the room I live in is worth the price I paid is a question that many people on business trips or travel are very concerned. Our model can predict the price of this airbnb room based on some characteristics, so it can help users to choose the most suitable room for them, thereby improving the happiness of travelers. Furthermore, if our data set can be richer, the computing power is more powerful, and the algorithm used is more complex, then our model will eventually be more accurate. Such a model can not only better help travelers choose airbnb rooms in New York, but also can applied to the entire hotel industry accross the world to help hotels improve their pricing system. 
+Whether the room I live in is worth the price I paid is a question that many people on business trips or travel are very concerned. This project analyzes Airbnb listings in the New York City to better understand how different attributes such as bedrooms, location, house type amongst others can be used to accurately predict the price of a new listing that is optimal in terms of the host’s profitability yet affordable to their guests. Our model is intend to predict the price of this airbnb room based on some characteristics, so it can help users to choose the most suitable room for them, thereby improving the happiness of travelers. Furthermore, if our data set can be richer, the computing power is more powerful, and the algorithm used is more complex, then our model will eventually be more accurate. Such a model can not only better help travelers choose airbnb rooms in New York, but also can applied to the entire hotel industry accross the world to help hotels improve their pricing system. 
 
 
 
