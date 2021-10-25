@@ -30,7 +30,7 @@ For out inital dataset, we make some pre-processing and do a basic exporatoty of
 
 Since our goal is to predict the price, and the price colums from the listing dataset is stored in string type, so we first change the string into float type and we draw a heatmap based on price, longitude and latitude.
 
-<img src="./midterm_report.assets/heatmap.png" alt="heatmap" style="zoom: 50%;" />
+<img src="./midterm_report.assets/heatmap.png" alt="heatmap" style="zoom: 40%;" />
 
 In addition, we also use a python package folium to match this to the New York map to get a more clear visulization of the Airbnb distribution in New York. You can check it in the file **Heatmap_restday.html**.
 
@@ -52,7 +52,7 @@ The pre-processing operations involved are listed in the following table.
 
 The most obvious feature that is related closely to `price` is location and we use feature `zipcode` to represent the location so we convert it into one hot code for further analysis. In addtion, the `room type` is another import feature when considered the price. So we draw a box plot to show the relation between three types of rooms.
 
-<img src="./midterm_report.assets/rom_tpye_box.png" alt="rom_tpye_box" style="zoom: 50%;" />
+<img src="./midterm_report.assets/rom_tpye_box.png" alt="rom_tpye_box" style="zoom: 40%;" />
 
 Besides the `zipcode`, we do the pearson correlation with price and other numerical feature, we figure out that the top five numerical correlation features are `cleaning_fee`, `accommodates`, `beds`, `bedrooms`, `guests_included`
 
