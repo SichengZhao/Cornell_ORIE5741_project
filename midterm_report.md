@@ -14,9 +14,7 @@ To reach this goal, we deside to build a prediction model based on the New York 
 
 The listing data contains 29142 rows and 96 features, including number of people accommodated, bedrooms, beds, review scores, host response rate and so on.
 
-The calendar data contains 
-
-and the calender data contains
+The calendar data contains 13469123 rows and 7 feature, including listing_id, data, available, price, adjusted_price, minimum_nights, maximum_nights.
 
 The project involved the following steps:
 
@@ -32,7 +30,7 @@ For out inital dataset, we make some pre-processing and do a basic exporatoty of
 
 Since our goal is to predict the price, and the price colums from the listing dataset is stored in string type, so we first change the string into float type and we draw a heatmap based on price, longitude and latitude.
 
-<img src="./midterm_report.assets/heatmap.png" alt="heatmap" style="zoom: 67%;" />
+<img src="./midterm_report.assets/heatmap.png" alt="heatmap" style="zoom: 50%;" />
 
 In addition, we also use a python package folium to match this to the New York map to get a more clear visulization of the Airbnb distribution in New York. You can check it in the file **Heatmap_restday.html**.
 
