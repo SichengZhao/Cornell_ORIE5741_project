@@ -28,11 +28,10 @@ The project involved the following steps:
 
 For out inital dataset, we make some pre-processing and do a basic exporatoty of our two datasets. 
 
-Since our goal is to predict the price, and the price colums from the listing dataset is stored in string type, so we first change the string into float type and we draw a heatmap based on price, longitude and latitude.
+Since our goal is to predict the price, and the price colums from the listing dataset is stored in string type, so we first change the string into float type and we draw a heatmap based on price, longitude and latitude
 
-<img src="./midterm_report.assets/heatmap.png" alt="heatmap" style="zoom: 40%;" />
+<img src="/Users/dejavu/Desktop/class and project/ORIE 5741/HW/final_project/Cornell_ORIE5741_project/midterm_report.assets/newplot.png" alt="newplot" style="zoom:67%;" />
 
-In addition, we also use a python package folium to match this to the New York map to get a more clear visulization of the Airbnb distribution in New York. You can check it in the file **Heatmap_restday.html**.
 
 Then we plot the price distribution to get a overall view.
 
