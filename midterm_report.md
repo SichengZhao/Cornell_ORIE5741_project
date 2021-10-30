@@ -30,7 +30,7 @@ For out inital dataset, we make some pre-processing and do a basic exporatoty of
 
 Since our goal is to predict the price, and the price colums from the listing dataset is stored in string type, so we first change the string into float type and we draw a heatmap based on price, longitude and latitude
 
-<img src="/Users/dejavu/Desktop/class and project/ORIE 5741/HW/final_project/Cornell_ORIE5741_project/midterm_report.assets/newplot.png" alt="newplot" style="zoom:67%;" />
+<img src="../Cornell_ORIE5741_project/midterm_report.assets/newplot.png" alt="newplot" style="zoom:67%;" />
 
 
 Then we plot the price distribution to get a overall view.
